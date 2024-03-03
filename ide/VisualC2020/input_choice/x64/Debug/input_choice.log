@@ -1,3 +1,1 @@
-﻿  input_choice.cxx
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\input_choiced.exe) does not match the Linker's OutputFile property value (E:\eDev\libs_external\fltk_1.3.9\test\input_choiced.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-  input_choice.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\input_choiced.exe
+﻿

@@ -1,11 +1,1 @@
-﻿  Fl_BMP_Image.cxx
-  Fl_File_Icon2.cxx
-  Fl_GIF_Image.cxx
-  Fl_Help_Dialog.cxx
-  fl_images_core.cxx
-  Fl_JPEG_Image.cxx
-  Fl_PNG_Image.cxx
-  Fl_PNM_Image.cxx
-  Generating Code...
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fltkimagesd.lib) does not match the Library's OutputFile property value (E:\eDev\libs_external\fltk_1.3.9\lib\fltkimagesd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
-  fltkimages.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fltkimagesd.lib
+﻿
