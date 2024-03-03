@@ -1,0 +1,5 @@
+﻿  Create .cxx and .h file with fluidd
+  Compiling fluid files ...
+  fast_slow.cxx
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fast_slowd.exe) does not match the Linker's OutputFile property value (E:\eDev\libs_external\fltk_1.3.9\test\fast_slowd.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  fast_slow.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fast_slowd.exe

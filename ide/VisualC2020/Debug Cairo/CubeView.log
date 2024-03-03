@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug Cairo\) contains files shared from another project (adjuster.vcxproj, arc.vcxproj, ask.vcxproj, bitmap.vcxproj, blocks.vcxproj, boxtype.vcxproj, browser.vcxproj, button.vcxproj, buttons.vcxproj, cairo_test.vcxproj, checkers.vcxproj, clock.vcxproj, colbrowser.vcxproj, color_chooser.vcxproj, cube.vcxproj, cursor.vcxproj, curve.vcxproj, device.vcxproj, doublebuffer.vcxproj, editor.vcxproj, file_chooser.vcxproj, fltk.vcxproj, fltkdll.vcxproj, fltkforms.vcxproj, fltkgl.vcxproj, fltkimages.vcxproj, fltkjpeg.vcxproj, fltkpng.vcxproj, fluid.vcxproj, fonts.vcxproj, forms.vcxproj, fractals.vcxproj, fullscreen.vcxproj, glpuzzle.vcxproj, gl_overlay.vcxproj, hello.vcxproj, help.vcxproj, iconize.vcxproj, image.vcxproj, inactive.vcxproj, input.vcxproj, input_choice.vcxproj, keyboard.vcxproj, label.vcxproj, line_style.vcxproj, menubar.vcxproj, message.vcxproj, minimum.vcxproj, native-filechooser.vcxproj, navigation.vcxproj, output.vcxproj, overlay.vcxproj, pack.vcxproj, pixmap.vcxproj, pixmap_browser.vcxproj, resizebox.vcxproj, rotated_text.vcxproj, scroll.vcxproj, shape.vcxproj, subwindow.vcxproj, sudoku.vcxproj, symbols.vcxproj, table.vcxproj, tabs.vcxproj, threads.vcxproj, tile.vcxproj, tiled_image.vcxproj, tree.vcxproj, unittests.vcxproj, utf8.vcxproj, valuators.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Create .cxx and .h file with fluidd
+  Compiling fluid files ...
+  CubeMain.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../test/CubeMain.cxx')
+  
+  CubeView.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../test/CubeView.cxx')
+  
+  CubeViewUI.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../test/CubeViewUI.cxx')
+  
+  Generating Code...

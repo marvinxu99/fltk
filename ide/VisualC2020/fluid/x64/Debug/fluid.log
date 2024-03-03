@@ -1,0 +1,26 @@
+﻿  about_panel.cxx
+  align_widget.cxx
+  alignment_panel.cxx
+  code.cxx
+  CodeEditor.cxx
+  ExternalCodeEditor_WIN32.cxx
+  factory.cxx
+  file.cxx
+  Fl_Function_Type.cxx
+  Fl_Group_Type.cxx
+  Fl_Menu_Type.cxx
+  Fl_Type.cxx
+  Fl_Widget_Type.cxx
+  Fl_Window_Type.cxx
+  fluid.cxx
+  Fluid_Image.cxx
+  function_panel.cxx
+  template_panel.cxx
+  undo.cxx
+  widget_panel.cxx
+  Generating Code...
+E:\eDev\libs_external\fltk_1.3.9\fluid\widget_panel.cxx(29,35): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+E:\eDev\libs_external\fltk_1.3.9\fluid\widget_panel.cxx(39,37): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+E:\eDev\libs_external\fltk_1.3.9\fluid\widget_panel.cxx(49,37): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fluidd.exe) does not match the Linker's OutputFile property value (E:\eDev\libs_external\fltk_1.3.9\fluid\fluidd.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  fluid.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fluidd.exe

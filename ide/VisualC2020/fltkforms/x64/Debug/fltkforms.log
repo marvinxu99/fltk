@@ -1,0 +1,9 @@
+﻿  forms_bitmap.cxx
+  forms_compatability.cxx
+  forms_free.cxx
+  forms_fselect.cxx
+  forms_pixmap.cxx
+  forms_timer.cxx
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1554,5): warning MSB8012: TargetPath(E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fltkformsd.lib) does not match the Library's OutputFile property value (E:\eDev\libs_external\fltk_1.3.9\lib\fltkformsd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  fltkforms.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fltkformsd.lib

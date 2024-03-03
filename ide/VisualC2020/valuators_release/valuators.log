@@ -1,0 +1,4 @@
+﻿  Create .cxx and .h file with fluid
+  Compiling fluid files ...
+  valuators.cxx
+  valuators.vcxproj -> E:\eDev\libs_external\fltk_1.3.9\test\valuators.exe

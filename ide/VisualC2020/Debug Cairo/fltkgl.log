@@ -1,0 +1,50 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug Cairo\) contains files shared from another project (cairo_test.vcxproj, device.vcxproj, fltk.vcxproj, fltkjpeg.vcxproj, fltkpng.vcxproj, iconize.vcxproj, image.vcxproj, input.vcxproj, input_choice.vcxproj, line_style.vcxproj, menubar.vcxproj, message.vcxproj, minimum.vcxproj, native-filechooser.vcxproj, navigation.vcxproj, overlay.vcxproj, pack.vcxproj, pixmap.vcxproj, resizebox.vcxproj, rotated_text.vcxproj, scroll.vcxproj, subwindow.vcxproj, symbols.vcxproj, table.vcxproj, threads.vcxproj, tile.vcxproj, tiled_image.vcxproj, unittests.vcxproj, utf8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Fl_Gl_Choice.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/Fl_Gl_Choice.cxx')
+  
+  Fl_Gl_Device_Plugin.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/Fl_Gl_Device_Plugin.cxx')
+  
+  Fl_Gl_Overlay.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/Fl_Gl_Overlay.cxx')
+  
+  Fl_Gl_Window.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/Fl_Gl_Window.cxx')
+  
+  freeglut_geometry.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/freeglut_geometry.cxx')
+  
+  freeglut_stroke_mono_roman.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/freeglut_stroke_mono_roman.cxx')
+  
+  freeglut_stroke_roman.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/freeglut_stroke_roman.cxx')
+  
+  freeglut_teapot.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/freeglut_teapot.cxx')
+  
+  gl_draw.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/gl_draw.cxx')
+  
+  gl_start.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/gl_start.cxx')
+  
+  glut_compatability.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/glut_compatability.cxx')
+  
+  glut_font.cxx
+E:\eDev\libs_external\fltk_1.3.9\FL\Fl_Cairo.H(32,11): error C1083: Cannot open include file: 'cairo.h': No such file or directory
+  (compiling source file '../../src/glut_font.cxx')
+  
+  Generating Code...
