@@ -2,208 +2,208 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\adjusterd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\adjusterd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\arcd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\arcd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\askd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\askd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\bitmapd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\bitmapd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\blocksd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\blocksd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\boxtyped.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\boxtyped.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\browserd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\browserd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\buttond.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\buttond.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\buttonsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\buttonsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\checkersd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\checkersd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\clockd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\clockd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\colbrowserd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\colbrowserd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\color_chooserd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\color_chooserd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\cubed.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\cubed.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fluidd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fluidd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\CubeViewd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\CubeViewd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\cursord.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\cursord.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\curved.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\curved.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\doublebufferd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\doublebufferd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\pixmap_browserd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\pixmap_browserd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fltkdlld.dll</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fltkdlld.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\editord.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\editord.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fast_slowd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fast_slowd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\file_chooserd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\file_chooserd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fontsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fontsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\formsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\formsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fractalsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fractalsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fullscreend.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fullscreend.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\glpuzzled.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\glpuzzled.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\gl_overlayd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\gl_overlayd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\hellod.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\hellod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\helpd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\helpd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\iconized.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\iconized.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\imaged.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\imaged.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\inactived.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\inactived.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\inputd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\inputd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\input_choiced.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\input_choiced.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\keyboardd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\keyboardd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\labeld.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\labeld.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\line_styled.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\line_styled.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\mandelbrotd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\mandelbrotd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\menubard.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\menubard.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\messaged.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\messaged.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\minimumd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\minimumd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\navigationd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\navigationd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\outputd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\outputd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\overlayd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\overlayd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\packd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\packd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\pixmapd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\pixmapd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\preferencesd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\preferencesd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\radiod.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\radiod.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\resized.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\resized.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\resizeboxd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\resizeboxd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\rotated_textd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\rotated_textd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\scrolld.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\scrolld.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\shaped.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\shaped.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\subwindowd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\subwindowd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\sudokud.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\sudokud.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\symbolsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\symbolsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\tabled.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\tabled.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\tabsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\tabsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\threadsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\threadsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\tiled.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\tiled.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\tiled_imaged.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\tiled_imaged.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\treed.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\treed.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\utf8d.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\utf8d.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\valuatorsd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\valuatorsd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\demod.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\demod.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

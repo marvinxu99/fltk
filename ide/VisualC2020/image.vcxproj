@@ -285,7 +285,7 @@
     </ResourceCompile>
     <Link>
       <AdditionalDependencies>fltkd.lib;comctl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <OutputFile>../../test/imaged.exe</OutputFile>
+      <OutputFile>$(SolutionDir)$(Platform)\$(Configuration)\imaged.exe</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <AdditionalLibraryDirectories>..\..\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <IgnoreSpecificDefaultLibraries>libcd;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>

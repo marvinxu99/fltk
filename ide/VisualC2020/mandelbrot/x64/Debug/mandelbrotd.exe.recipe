@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\fluidd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\fluidd.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>E:\eDev\libs_external\fltk_1.3.9\ide\VisualC2010\x64\Debug\mandelbrotd.exe</FullPath>
+      <FullPath>E:\eDev\lib_external\fltk_1.3.9\ide\VisualC2020\x64\Debug\mandelbrotd.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

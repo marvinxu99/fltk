@@ -146,6 +146,20 @@
 /ide/VisualC2010/Release/
 /ide/VisualC2010/Release Cairo/
 
+# /ide/VisualC2022/
+/ide/VisualC2022/*.user
+/ide/VisualC2022/*_debug/
+/ide/VisualC2022/*_release/
+/ide/VisualC2022/fltk.*sdf
+/ide/VisualC2022/fltk.suo
+/ide/VisualC2022/fltkdlld.pdb
+/ide/VisualC2022/fltkdll/
+/ide/VisualC2022/fltkdlld/
+/ide/VisualC2022/Debug/
+/ide/VisualC2022/Debug Cairo/
+/ide/VisualC2022/Release/
+/ide/VisualC2022/Release Cairo/
+
 # /ide/Xcode3/
 /ide/Xcode3/build
 
